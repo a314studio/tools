@@ -1,6 +1,6 @@
 <?php
 
-namespace A314\Helper;
+namespace A314studio\Helper;
 
 class ToolsHelper
 {
